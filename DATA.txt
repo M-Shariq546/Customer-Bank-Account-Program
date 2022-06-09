@@ -1,0 +1,15 @@
+The Collected data is given below
+ID: 1
+NAME: Muhammad Shariq
+BALANCE: 50000
+---------------------------------
+The Collected data is given below
+ID: 2
+NAME: Moeez Ahmad
+BALANCE: 50
+---------------------------------
+The Collected data is given below
+ID: 3
+NAME: Mujtaba Tahir
+BALANCE: 70
+---------------------------------
