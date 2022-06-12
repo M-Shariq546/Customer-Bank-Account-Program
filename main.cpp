@@ -124,7 +124,7 @@ int main()
           }
         goto menu;
       cscore:
-              if(c1.getBalance() > 0 || c1.getBalance() < 100)
+              if(c1.getBalance() > '0' || c1.getBalance() < '100')
               {
                   cout<<"The Following customers have low Credit Score."<<endl;
                   for(int i=0 ; i<2 ; i++)
